@@ -1,7 +1,8 @@
 
 # Massimo Barczys
-Data Analyst
+Junior Data Analyst
 
+[View Portfolio Here](https://github.com/MassimoData/Portfolio)
 
 ## Skills
 - Python (pandas, seaborn, numpy) 
@@ -30,17 +31,17 @@ At this position I shared my deep understanding of statistics to help students w
 ### Google / Data Analytics Professional Certificate
 July 2022 - August 2022,  Online
 
-Completed the extensive job-ready Google Career Certificate Training. Demonstrated hands-on experience with data cleaning, data visualization, project management, interpreting and communicating data analytics findings. Confidence in transforming complex data into actionable and clear insights. Fluency in computer programming languages and a solid understanding of databases.
+Completed the extensive job-ready Google Career Certificate Training. Demonstrated hands-on experience with data cleaning, data visualization, project management, interpreting and communicating data analytics findings. Confidence in transforming complex data into actionable and clear insights.
 
 ### Oakland University / B.A Psychology
 September 2016 - December 2020,  Rochester, MI
 
-While pursuing my bachelors of psychology I was able to conduct primary research on personality and evolutionary psychology which allowed me to develop a deeper understanding of research design and statistics.
+At this position I learned all the skills to complete a research project from start to finish including skills such as research design, IRB approval, survey creation, data collection, data cleaning, participant sign up, data analysis, and data presentation.
 ## Contact
 Troy, MI 48085
 
-248-797-5458
+Phone: 248-797-5458
 
-MassimoBarczys@gmail.com
+Email: MassimoBarczys@gmail.com
 
-https://massimodata.github.io/Portfolio
+Portfolio Website: https://massimodata.github.io/Portfolio/
