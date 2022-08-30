@@ -2,7 +2,7 @@
 # Massimo Barczys
 Junior Data Analyst
 
-[View Portfolio Here](https://github.com/MassimoData/Portfolio)
+[View Portfolio Here](https://massimodata.github.io/Portfolio/)
 
 ## Skills
 - Python (pandas, seaborn, numpy) 
